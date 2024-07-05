@@ -1,0 +1,1 @@
+This code demonstrates how to build a hand gesture recognition model using a sample from a Kaggle dataset. I used OpenCV for image processing and Keras for building and training a CNN. The model can be used for intuitive human-computer interaction and gesture-based control systems.
